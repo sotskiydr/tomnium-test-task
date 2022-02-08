@@ -1,5 +1,6 @@
 {
   "name": "tomnium-test-task",
+    "homepage": "https://sotskiydr.github.io/tomnium-test-task",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
